@@ -9,7 +9,8 @@ public class simpleinterest { // class name
 
     public static void main(String args[]) { // mandatory main method
 
-        simpleinterest myMultip = new simpleinterest(); // class object
+        simpleinterest myMultip = new simpleinterest(); // object name
+    
 
         double principle = 100000;
         double rate = 5;
