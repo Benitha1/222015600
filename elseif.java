@@ -1,7 +1,7 @@
 // this class demonstrates the use of if...else statement in java
 public class elseif {
     public static void main(String args[]) { // the main method
-        int x = 30; // declare variable
+        int x = 30; // declare variable and assigning a value
         
         if (x == 10) { //check if x is equal to 10,20 or 30
             System.out.print("x is equal to 10"); // print a message if x is equal to 10
