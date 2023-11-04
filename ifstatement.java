@@ -1,7 +1,7 @@
 public class ifstatement {
     // this class demonstrates how to use the if statement in java
     public static void main(String args[]) {
-        //declare two variables
+        //declare two variables and assigning their values
         int a = 10;
         int b = 15;
         
